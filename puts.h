@@ -4,6 +4,7 @@ void Randoms(){
         arr[1][1] = 'X';
         return ;
     }
+    
 
     srand(time(NULL));
     int x = 0;
